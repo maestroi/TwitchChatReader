@@ -1,0 +1,5 @@
+[General]
+nickname: USERNAME
+token: OATH TOKEN
+userlist: LIST OF USERS.txt
+graylog: udp://EXAMPLE.COM:12201
